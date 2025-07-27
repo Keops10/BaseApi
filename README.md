@@ -267,10 +267,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-Proje Sahibi - [@yourusername](https://github.com/yourusername)
-
-Proje Linki: [https://github.com/yourusername/BaseApi](https://github.com/yourusername/BaseApi)
-
----
-
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! 
+Şimdilik Yok.
