@@ -93,7 +93,7 @@ BaseApi/
 
 1. **Repository'yi klonlayın**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Keops10/BaseApi>
 cd BaseApi
 ```
 
@@ -253,13 +253,6 @@ ENTRYPOINT ["dotnet", "BaseApi.API.dll"]
 - Azure App Service
 - Azure SQL Database
 
-## 🤝 Katkıda Bulunma
-
-1. Fork edin
-2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Commit edin (`git commit -m 'Add some AmazingFeature'`)
-4. Push edin (`git push origin feature/AmazingFeature`)
-5. Pull Request oluşturun
 
 ## 📝 Lisans
 
