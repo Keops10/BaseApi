@@ -263,7 +263,7 @@ ENTRYPOINT ["dotnet", "BaseApi.API.dll"]
 
 ## 📝 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır.
+Bu proje, kişisel ve akademik kullanım için ücretsizdir. Ticari kullanım için özel lisans gereklidir. Detaylar için [LICENSE](LICENSE) dosyasına göz atın.
 
 ## 📞 İletişim
 
